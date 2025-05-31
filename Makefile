@@ -1,5 +1,6 @@
+
 CC = gcc
-CFLAGS = -Wall -Wextra -Werror -std=c99 \
+CFLAGS = -Wall -Wextra -Werror -D_GNU_SOURCE \
          -I./parser -I./explain -I./input -I./output -I./narration -I./plugins
 LDFLAGS =
 
@@ -15,7 +16,10 @@ SRC = \
 OBJ = $(SRC:.c=.o)
 
 TARGET = whathappened
-TESTS = tests/test_audit_line
+
+# Unit Test sources and binary
+TEST_SRCS = tests/test_audit_line.c tests/test_utils.c
+TEST_BIN  = tests/test_audit_line
 
 all: $(TARGET)
 
@@ -25,12 +29,11 @@ $(TARGET): $(OBJ)
 check:
 	cppcheck --enable=all --inconclusive --std=c99 --quiet --suppress=missingIncludeSystem .
 
-test: $(TESTS)
-	@for t in $(TESTS); do echo "Running $$t..."; ./$$t || exit 1; done
+test: $(TEST_BIN)
+	@for t in $(TEST_BIN); do echo "Running $$t..."; ./$$t || exit 1; done
 
-tests/test_audit_line: tests/test_audit_line.c parser/audit_line.c parser/audit_line.h
+tests/test_audit_line: $(TEST_SRCS) parser/audit_line.c parser/audit_line.h
 	$(CC) $(CFLAGS) -o $@ $^ -lcmocka
 
 clean:
-	rm -f $(OBJ) $(TARGET) $(TESTS)
-
+	rm -f $(OBJ) $(TARGET) $(TEST_BIN)
