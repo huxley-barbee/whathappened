@@ -1,0 +1,30 @@
+----
+time->Sun Jun  1 10:42:26 2025
+type=CONFIG_CHANGE msg=audit(1748774546.897:434346): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=remove_rule key="exec-log" list=4 res=1
+----
+time->Sun Jun  1 10:42:26 2025
+type=CONFIG_CHANGE msg=audit(1748774546.996:434358): auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 op=add_rule key="exec-log" list=4 res=1
+----
+time->Sun Jun  1 10:43:43 2025
+type=CONFIG_CHANGE msg=audit(1748774623.388:435265): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=remove_rule key="exec-log" list=4 res=1
+----
+time->Sun Jun  1 10:43:43 2025
+type=CONFIG_CHANGE msg=audit(1748774623.487:435276): auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 op=add_rule key="exec-log" list=4 res=1
+----
+time->Sun Jun  1 10:46:12 2025
+type=CONFIG_CHANGE msg=audit(1748774772.069:436632): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=remove_rule key="exec-log" list=4 res=1
+----
+time->Sun Jun  1 10:46:12 2025
+type=CONFIG_CHANGE msg=audit(1748774772.177:436644): auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 op=add_rule key="exec-log" list=4 res=1
+----
+time->Sun Jun  1 10:47:26 2025
+type=CONFIG_CHANGE msg=audit(1748774846.453:437447): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=remove_rule key="exec-log" list=4 res=1
+----
+time->Sun Jun  1 10:47:26 2025
+type=CONFIG_CHANGE msg=audit(1748774846.542:437458): auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 op=add_rule key="exec-log" list=4 res=1
+----
+time->Sun Jun  1 10:56:33 2025
+type=CONFIG_CHANGE msg=audit(1748775393.630:441290): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=remove_rule key="exec-log" list=4 res=1
+----
+time->Sun Jun  1 10:56:33 2025
+type=CONFIG_CHANGE msg=audit(1748775393.723:441302): auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 op=add_rule key="exec-log" list=4 res=1

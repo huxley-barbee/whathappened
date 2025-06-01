@@ -1,0 +1,288 @@
+----
+time->Sun Jun  1 10:35:55 2025
+type=USER_CMD msg=audit(1748774155.678:431645): pid=27322 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar" cmd=677265702050617373776F726441757468656E7469636174696F6E202F6574632F7373682F737368645F636F6E666967 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:36:31 2025
+type=USER_CMD msg=audit(1748774191.729:431937): pid=27360 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar" cmd=617564697463746C202D6C exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:36:38 2025
+type=USER_CMD msg=audit(1748774198.224:432048): pid=27386 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar" cmd=617564697463746C202D6120616C776179732C65786974202D4620617263683D623634202D5320636F6E6E656374202D6B207373682D6C6F67696E2D6661696C757265 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:36:41 2025
+type=USER_CMD msg=audit(1748774201.538:432079): pid=27392 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar" cmd=617564697463746C202D6C exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:36:58 2025
+type=USER_CMD msg=audit(1748774218.530:432234): pid=27406 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar" cmd=6175736561726368202D6D20414E4F4D5F4C4F47494E5F4641494C555245202D747320726563656E74 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:38:06 2025
+type=USER_CMD msg=audit(1748774286.522:432674): pid=27442 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar" cmd=6175736561726368202D747320726563656E74 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:38:12 2025
+type=USER_CMD msg=audit(1748774292.417:432785): pid=27467 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar" cmd=6175736561726368202D747320726563656E74 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:38:39 2025
+type=USER_CMD msg=audit(1748774319.761:432968): pid=27479 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar" cmd=6175736561726368202D6D20555345525F415554482C555345525F4C4F47494E202D747320726563656E74 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:38:45 2025
+type=USER_CMD msg=audit(1748774325.008:433073): pid=27503 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar" cmd=6175736561726368202D6D20555345525F415554482C555345525F4C4F47494E202D747320726563656E74 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:42:25 2025
+type=USER_CMD msg=audit(1748774545.617:434231): pid=27600 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=73797374656D63746C20656E61626C65202D2D6E6F7720617564697464 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:42:26 2025
+type=USER_CMD msg=audit(1748774546.959:434355): pid=27691 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=617564697463746C202D6120616C776179732C65786974202D4620617263683D623634202D5320657865637665202D6B20657865632D6C6F67 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:42:27 2025
+type=USER_CMD msg=audit(1748774547.039:434362): pid=27697 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=617564697463746C202D6120616C776179732C65786974202D4620617263683D623634202D53206F70656E2C6F70656E6174202D6B206F70656E2D6C6F67 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:42:27 2025
+type=USER_CMD msg=audit(1748774547.116:434369): pid=27703 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=73797374656D63746C2073746172742073736864 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:42:29 2025
+type=USER_CMD msg=audit(1748774549.225:434399): pid=27714 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd="whoami" exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:42:31 2025
+type=USER_CMD msg=audit(1748774551.349:434424): pid=27724 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=75736572616464202D2D6E6F2D6372656174652D686F6D65202D2D7368656C6C202F7362696E2F6E6F6C6F67696E2074657374617564697475736572 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:42:32 2025
+type=USER_CMD msg=audit(1748774552.493:434444): pid=27730 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=7573657264656C2074657374617564697475736572 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:42:34 2025
+type=USER_CMD msg=audit(1748774554.648:434477): pid=27739 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=617564697463746C202D6C exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:42:35 2025
+type=USER_CMD msg=audit(1748774555.720:434495): pid=27746 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6B20657865632D6C6F67 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:42:35 2025
+type=USER_CMD msg=audit(1748774555.967:434513): pid=27750 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6B206F70656E2D6C6F67 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:42:36 2025
+type=USER_CMD msg=audit(1748774556.538:434519): pid=27756 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6D20555345525F434D44 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:42:36 2025
+type=USER_CMD msg=audit(1748774556.774:434537): pid=27761 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6D204144445F555345522C44454C5F55534552 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:42:37 2025
+type=USER_CMD msg=audit(1748774557.010:434543): pid=27766 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6D20414E4F4D5F4C4F47494E5F4641494C55524553 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:42:37 2025
+type=USER_CMD msg=audit(1748774557.266:434549): pid=27772 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6D20434F4E4649475F4348414E4745 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:42:37 2025
+type=USER_CMD msg=audit(1748774557.507:434555): pid=27777 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6D2043525950544F5F4B45595F55534552 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:43:02 2025
+type=USER_CMD msg=audit(1748774582.899:434744): pid=27830 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=7669202F6574632F7373682F737368645F636F6E666967 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:43:36 2025
+type=USER_CMD msg=audit(1748774616.380:435092): pid=27894 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=73797374656D63746C20726573746172742073736864 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:43:42 2025
+type=USER_CMD msg=audit(1748774622.571:435199): pid=27923 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=73797374656D63746C20656E61626C65202D2D6E6F7720617564697464 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:43:43 2025
+type=USER_CMD msg=audit(1748774623.445:435273): pid=27995 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=617564697463746C202D6120616C776179732C65786974202D4620617263683D623634202D5320657865637665202D6B20657865632D6C6F67 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:43:43 2025
+type=USER_CMD msg=audit(1748774623.525:435280): pid=28002 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=617564697463746C202D6120616C776179732C65786974202D4620617263683D623634202D53206F70656E2C6F70656E6174202D6B206F70656E2D6C6F67 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:43:43 2025
+type=USER_CMD msg=audit(1748774623.588:435287): pid=28008 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=73797374656D63746C2073746172742073736864 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:43:45 2025
+type=USER_CMD msg=audit(1748774625.672:435317): pid=28019 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd="whoami" exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:43:47 2025
+type=USER_CMD msg=audit(1748774627.784:435354): pid=28029 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=75736572616464202D2D6E6F2D6372656174652D686F6D65202D2D7368656C6C202F7362696E2F6E6F6C6F67696E2074657374617564697475736572 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:43:48 2025
+type=USER_CMD msg=audit(1748774628.952:435374): pid=28035 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=7573657264656C2074657374617564697475736572 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:43:51 2025
+type=USER_CMD msg=audit(1748774631.112:435407): pid=28044 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=617564697463746C202D6C exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:43:52 2025
+type=USER_CMD msg=audit(1748774632.184:435425): pid=28051 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6B20657865632D6C6F67 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:43:52 2025
+type=USER_CMD msg=audit(1748774632.468:435443): pid=28055 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6B206F70656E2D6C6F67 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:43:53 2025
+type=USER_CMD msg=audit(1748774633.073:435449): pid=28060 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6D20555345525F434D44 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:43:53 2025
+type=USER_CMD msg=audit(1748774633.325:435467): pid=28065 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6D204144445F555345522C44454C5F55534552 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:43:53 2025
+type=USER_CMD msg=audit(1748774633.584:435473): pid=28070 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6D20414E4F4D5F4C4F47494E5F4641494C55524553 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:43:53 2025
+type=USER_CMD msg=audit(1748774633.841:435479): pid=28075 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6D20434F4E4649475F4348414E4745 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:43:54 2025
+type=USER_CMD msg=audit(1748774634.128:435485): pid=28083 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6D2043525950544F5F4B45595F55534552 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:44:37 2025
+type=USER_CMD msg=audit(1748774677.918:435764): pid=28102 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=677265702050617373776F726441757468656E7469636174696F6E202F6574632F7373682F737368645F636F6E666967 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:45:16 2025
+type=USER_CMD msg=audit(1748774716.531:436046): pid=28132 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=617564697463746C202D6C exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:45:56 2025
+type=USER_CMD msg=audit(1748774756.008:436340): pid=28164 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=617564697463746C202D6120616C776179732C65786974202D4620617263683D623634202D5320636F6E6E656374202D6B207373682D6C6F67696E2D6661696C757265 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:45:58 2025
+type=USER_CMD msg=audit(1748774758.386:436410): pid=28190 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=617564697463746C202D6C exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:46:10 2025
+type=USER_CMD msg=audit(1748774770.741:436527): pid=28203 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=73797374656D63746C20656E61626C65202D2D6E6F7720617564697464 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:46:12 2025
+type=USER_CMD msg=audit(1748774772.138:436641): pid=28294 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=617564697463746C202D6120616C776179732C65786974202D4620617263683D623634202D5320657865637665202D6B20657865632D6C6F67 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:46:12 2025
+type=USER_CMD msg=audit(1748774772.226:436648): pid=28300 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=617564697463746C202D6120616C776179732C65786974202D4620617263683D623634202D53206F70656E2C6F70656E6174202D6B206F70656E2D6C6F67 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:46:12 2025
+type=USER_CMD msg=audit(1748774772.314:436655): pid=28306 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=73797374656D63746C2073746172742073736864 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:46:14 2025
+type=USER_CMD msg=audit(1748774774.426:436678): pid=28320 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd="whoami" exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:46:16 2025
+type=USER_CMD msg=audit(1748774776.552:436718): pid=28330 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=75736572616464202D2D6E6F2D6372656174652D686F6D65202D2D7368656C6C202F7362696E2F6E6F6C6F67696E2074657374617564697475736572 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:46:17 2025
+type=USER_CMD msg=audit(1748774777.708:436738): pid=28336 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=7573657264656C2074657374617564697475736572 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:46:19 2025
+type=USER_CMD msg=audit(1748774779.875:436771): pid=28345 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=617564697463746C202D6C exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:46:20 2025
+type=USER_CMD msg=audit(1748774780.963:436789): pid=28352 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6B20657865632D6C6F67 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:46:21 2025
+type=USER_CMD msg=audit(1748774781.243:436807): pid=28357 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6B206F70656E2D6C6F67 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:46:21 2025
+type=USER_CMD msg=audit(1748774781.819:436813): pid=28364 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6D20555345525F434D44 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:46:22 2025
+type=USER_CMD msg=audit(1748774782.053:436831): pid=28369 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6D204144445F555345522C44454C5F55534552 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:46:22 2025
+type=USER_CMD msg=audit(1748774782.293:436837): pid=28374 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6D20414E4F4D5F4C4F47494E5F4641494C55524553 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:46:22 2025
+type=USER_CMD msg=audit(1748774782.547:436843): pid=28379 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6D20434F4E4649475F4348414E4745 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:46:22 2025
+type=USER_CMD msg=audit(1748774782.799:436849): pid=28384 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6D2043525950544F5F4B45595F55534552 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:46:38 2025
+type=USER_CMD msg=audit(1748774798.955:436998): pid=28401 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=617564697463746C202D6C exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:47:25 2025
+type=USER_CMD msg=audit(1748774845.324:437336): pid=28453 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=73797374656D63746C20656E61626C65202D2D6E6F7720617564697464 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:47:26 2025
+type=USER_CMD msg=audit(1748774846.508:437455): pid=28544 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=617564697463746C202D6120616C776179732C65786974202D4620617263683D623634202D5320657865637665202D6B20657865632D6C6F67 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:47:26 2025
+type=USER_CMD msg=audit(1748774846.582:437462): pid=28550 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=617564697463746C202D6120616C776179732C65786974202D4620617263683D623634202D53206F70656E2C6F70656E6174202D6B206F70656E2D6C6F67 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:47:26 2025
+type=USER_CMD msg=audit(1748774846.654:437469): pid=28556 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=617564697463746C202D6120616C776179732C65786974202D4620617263683D623634202D5320636F6E6E656374202D6B207373682D6C6F67696E2D6661696C757265 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:47:26 2025
+type=USER_CMD msg=audit(1748774846.730:437476): pid=28563 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=73797374656D63746C2073746172742073736864 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:47:28 2025
+type=USER_CMD msg=audit(1748774848.837:437506): pid=28574 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd="whoami" exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:47:30 2025
+type=USER_CMD msg=audit(1748774850.961:437531): pid=28584 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=75736572616464202D2D6E6F2D6372656174652D686F6D65202D2D7368656C6C202F7362696E2F6E6F6C6F67696E2074657374617564697475736572 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:47:32 2025
+type=USER_CMD msg=audit(1748774852.157:437563): pid=28591 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=7573657264656C2074657374617564697475736572 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:47:34 2025
+type=USER_CMD msg=audit(1748774854.308:437584): pid=28600 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=617564697463746C202D6C exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:47:35 2025
+type=USER_CMD msg=audit(1748774855.384:437602): pid=28607 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6B20657865632D6C6F67 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:47:35 2025
+type=USER_CMD msg=audit(1748774855.641:437608): pid=28612 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6B206F70656E2D6C6F67 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:47:36 2025
+type=USER_CMD msg=audit(1748774856.181:437626): pid=28617 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6D20555345525F434D44 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:47:36 2025
+type=USER_CMD msg=audit(1748774856.435:437632): pid=28623 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6D204144445F555345522C44454C5F55534552 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:47:36 2025
+type=USER_CMD msg=audit(1748774856.654:437638): pid=28629 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6D20414E4F4D5F4C4F47494E5F4641494C55524553 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:47:36 2025
+type=USER_CMD msg=audit(1748774856.896:437656): pid=28634 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6D20434F4E4649475F4348414E4745 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:47:37 2025
+type=USER_CMD msg=audit(1748774857.130:437662): pid=28639 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6D2043525950544F5F4B45595F55534552 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:47:50 2025
+type=USER_CMD msg=audit(1748774870.537:437785): pid=28658 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=617564697463746C202D6C exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:48:34 2025
+type=USER_CMD msg=audit(1748774914.533:438097): pid=28689 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=73797374656D63746C2073746174757320617564697464 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:48:54 2025
+type=USER_CMD msg=audit(1748774934.339:438348): pid=28717 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd="whoami" exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:48:54 2025
+type=USER_CMD msg=audit(1748774934.404:438354): pid=28721 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D747320726563656E74 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:51:10 2025
+type=USER_CMD msg=audit(1748775070.372:439067): pid=28762 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=7669202F6574632F70616D2E642F73736864 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:52:05 2025
+type=USER_CMD msg=audit(1748775125.632:439609): pid=28799 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=73797374656D63746C20726573746172742073736864 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:52:14 2025
+type=USER_CMD msg=audit(1748775134.296:439754): pid=28829 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6D20414E4F4D5F4C4F47494E5F4641494C55524553202D747320726563656E74 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:54:06 2025
+type=USER_CMD msg=audit(1748775246.784:440359): pid=28846 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6D20414E4F4D5F4C4F47494E5F4641494C55524553202D747320726563656E74 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:56:32 2025
+type=USER_CMD msg=audit(1748775392.385:441173): pid=28906 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=73797374656D63746C20656E61626C65202D2D6E6F7720617564697464 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:56:33 2025
+type=USER_CMD msg=audit(1748775393.690:441299): pid=28998 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=617564697463746C202D6120616C776179732C65786974202D4620617263683D623634202D5320657865637665202D6B20657865632D6C6F67 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:56:33 2025
+type=USER_CMD msg=audit(1748775393.761:441306): pid=29004 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=617564697463746C202D6120616C776179732C65786974202D4620617263683D623634202D53206F70656E2C6F70656E6174202D6B206F70656E2D6C6F67 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:56:33 2025
+type=USER_CMD msg=audit(1748775393.837:441313): pid=29010 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=73797374656D63746C2073746172742073736864 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:56:35 2025
+type=USER_CMD msg=audit(1748775395.942:441343): pid=29021 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd="whoami" exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:56:37 2025
+type=USER_CMD msg=audit(1748775397.010:441349): pid=29029 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=75736572616464202D2D6E6F2D6372656174652D686F6D65202D2D7368656C6C202F7362696E2F6E6F6C6F67696E2074657374617564697475736572 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:56:38 2025
+type=USER_CMD msg=audit(1748775398.166:441381): pid=29035 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=7573657264656C2074657374617564697475736572 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:56:40 2025
+type=USER_CMD msg=audit(1748775400.310:441402): pid=29044 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=617564697463746C202D6C exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:56:41 2025
+type=USER_CMD msg=audit(1748775401.378:441420): pid=29051 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6B20657865632D6C6F67 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:56:41 2025
+type=USER_CMD msg=audit(1748775401.572:441426): pid=29055 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6B206F70656E2D6C6F67 exe="/usr/bin/sudo" terminal=pts/0 res=success'
+----
+time->Sun Jun  1 10:56:41 2025
+type=USER_CMD msg=audit(1748775401.988:441444): pid=29060 uid=1000 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='cwd="/home/voidstar/whathappened" cmd=6175736561726368202D6D20555345525F434D44 exe="/usr/bin/sudo" terminal=pts/0 res=success'

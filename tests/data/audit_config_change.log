@@ -1,0 +1,108 @@
+----
+time->Sun Jun  1 10:36:38 2025
+type=CONFIG_CHANGE msg=audit(1748774198.255:432051): auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 op=add_rule key="ssh-login-failure" list=4 res=1
+----
+time->Sun Jun  1 10:42:26 2025
+type=CONFIG_CHANGE msg=audit(1748774546.897:434345): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=remove_rule key=(null) list=1 res=1
+----
+time->Sun Jun  1 10:42:26 2025
+type=CONFIG_CHANGE msg=audit(1748774546.897:434346): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=remove_rule key="exec-log" list=4 res=1
+----
+time->Sun Jun  1 10:42:26 2025
+type=CONFIG_CHANGE msg=audit(1748774546.897:434347): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=remove_rule key="open-log" list=4 res=1
+----
+time->Sun Jun  1 10:42:26 2025
+type=CONFIG_CHANGE msg=audit(1748774546.897:434348): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=remove_rule key="ssh-login-failure" list=4 res=1
+----
+time->Sun Jun  1 10:42:26 2025
+type=CONFIG_CHANGE msg=audit(1748774546.897:434349): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=add_rule key=(null) list=1 res=1
+----
+time->Sun Jun  1 10:42:26 2025
+type=CONFIG_CHANGE msg=audit(1748774546.996:434358): auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 op=add_rule key="exec-log" list=4 res=1
+----
+time->Sun Jun  1 10:42:27 2025
+type=CONFIG_CHANGE msg=audit(1748774547.072:434365): auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 op=add_rule key="open-log" list=4 res=1
+----
+time->Sun Jun  1 10:43:43 2025
+type=CONFIG_CHANGE msg=audit(1748774623.388:435264): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=remove_rule key=(null) list=1 res=1
+----
+time->Sun Jun  1 10:43:43 2025
+type=CONFIG_CHANGE msg=audit(1748774623.388:435265): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=remove_rule key="exec-log" list=4 res=1
+----
+time->Sun Jun  1 10:43:43 2025
+type=CONFIG_CHANGE msg=audit(1748774623.388:435266): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=remove_rule key="open-log" list=4 res=1
+----
+time->Sun Jun  1 10:43:43 2025
+type=CONFIG_CHANGE msg=audit(1748774623.388:435267): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=add_rule key=(null) list=1 res=1
+----
+time->Sun Jun  1 10:43:43 2025
+type=CONFIG_CHANGE msg=audit(1748774623.487:435276): auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 op=add_rule key="exec-log" list=4 res=1
+----
+time->Sun Jun  1 10:43:43 2025
+type=CONFIG_CHANGE msg=audit(1748774623.553:435283): auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 op=add_rule key="open-log" list=4 res=1
+----
+time->Sun Jun  1 10:45:56 2025
+type=CONFIG_CHANGE msg=audit(1748774756.469:436394): auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 op=add_rule key="ssh-login-failure" list=4 res=1
+----
+time->Sun Jun  1 10:46:12 2025
+type=CONFIG_CHANGE msg=audit(1748774772.069:436631): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=remove_rule key=(null) list=1 res=1
+----
+time->Sun Jun  1 10:46:12 2025
+type=CONFIG_CHANGE msg=audit(1748774772.069:436632): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=remove_rule key="exec-log" list=4 res=1
+----
+time->Sun Jun  1 10:46:12 2025
+type=CONFIG_CHANGE msg=audit(1748774772.070:436633): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=remove_rule key="open-log" list=4 res=1
+----
+time->Sun Jun  1 10:46:12 2025
+type=CONFIG_CHANGE msg=audit(1748774772.070:436634): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=remove_rule key="ssh-login-failure" list=4 res=1
+----
+time->Sun Jun  1 10:46:12 2025
+type=CONFIG_CHANGE msg=audit(1748774772.070:436635): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=add_rule key=(null) list=1 res=1
+----
+time->Sun Jun  1 10:46:12 2025
+type=CONFIG_CHANGE msg=audit(1748774772.177:436644): auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 op=add_rule key="exec-log" list=4 res=1
+----
+time->Sun Jun  1 10:46:12 2025
+type=CONFIG_CHANGE msg=audit(1748774772.260:436651): auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 op=add_rule key="open-log" list=4 res=1
+----
+time->Sun Jun  1 10:47:26 2025
+type=CONFIG_CHANGE msg=audit(1748774846.453:437446): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=remove_rule key=(null) list=1 res=1
+----
+time->Sun Jun  1 10:47:26 2025
+type=CONFIG_CHANGE msg=audit(1748774846.453:437447): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=remove_rule key="exec-log" list=4 res=1
+----
+time->Sun Jun  1 10:47:26 2025
+type=CONFIG_CHANGE msg=audit(1748774846.453:437448): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=remove_rule key="open-log" list=4 res=1
+----
+time->Sun Jun  1 10:47:26 2025
+type=CONFIG_CHANGE msg=audit(1748774846.453:437449): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=add_rule key=(null) list=1 res=1
+----
+time->Sun Jun  1 10:47:26 2025
+type=CONFIG_CHANGE msg=audit(1748774846.542:437458): auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 op=add_rule key="exec-log" list=4 res=1
+----
+time->Sun Jun  1 10:47:26 2025
+type=CONFIG_CHANGE msg=audit(1748774846.615:437465): auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 op=add_rule key="open-log" list=4 res=1
+----
+time->Sun Jun  1 10:47:26 2025
+type=CONFIG_CHANGE msg=audit(1748774846.693:437472): auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 op=add_rule key="ssh-login-failure" list=4 res=1
+----
+time->Sun Jun  1 10:56:33 2025
+type=CONFIG_CHANGE msg=audit(1748775393.630:441289): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=remove_rule key=(null) list=1 res=1
+----
+time->Sun Jun  1 10:56:33 2025
+type=CONFIG_CHANGE msg=audit(1748775393.630:441290): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=remove_rule key="exec-log" list=4 res=1
+----
+time->Sun Jun  1 10:56:33 2025
+type=CONFIG_CHANGE msg=audit(1748775393.630:441291): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=remove_rule key="open-log" list=4 res=1
+----
+time->Sun Jun  1 10:56:33 2025
+type=CONFIG_CHANGE msg=audit(1748775393.630:441292): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=remove_rule key="ssh-login-failure" list=4 res=1
+----
+time->Sun Jun  1 10:56:33 2025
+type=CONFIG_CHANGE msg=audit(1748775393.630:441293): auid=4294967295 ses=4294967295 subj=system_u:system_r:unconfined_service_t:s0 op=add_rule key=(null) list=1 res=1
+----
+time->Sun Jun  1 10:56:33 2025
+type=CONFIG_CHANGE msg=audit(1748775393.723:441302): auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 op=add_rule key="exec-log" list=4 res=1
+----
+time->Sun Jun  1 10:56:33 2025
+type=CONFIG_CHANGE msg=audit(1748775393.793:441309): auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 op=add_rule key="open-log" list=4 res=1

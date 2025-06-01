@@ -1,0 +1,4 @@
+*.swp
+tests/data/*.tmp
+tests/data/*~
+

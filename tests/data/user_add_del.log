@@ -1,0 +1,30 @@
+----
+time->Sun Jun  1 10:42:31 2025
+type=ADD_USER msg=audit(1748774551.409:434428): pid=27727 uid=0 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='op=add-user acct="testaudituser" exe="/usr/sbin/useradd" hostname=dev01 addr=? terminal=pts/2 res=success'
+----
+time->Sun Jun  1 10:42:32 2025
+type=DEL_USER msg=audit(1748774552.555:434459): pid=27733 uid=0 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='op=delete-user id=1001 exe="/usr/sbin/userdel" hostname=dev01 addr=? terminal=pts/2 res=success'
+----
+time->Sun Jun  1 10:43:47 2025
+type=ADD_USER msg=audit(1748774627.859:435358): pid=28032 uid=0 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='op=add-user acct="testaudituser" exe="/usr/sbin/useradd" hostname=dev01 addr=? terminal=pts/2 res=success'
+----
+time->Sun Jun  1 10:43:49 2025
+type=DEL_USER msg=audit(1748774629.015:435389): pid=28038 uid=0 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='op=delete-user id=1001 exe="/usr/sbin/userdel" hostname=dev01 addr=? terminal=pts/2 res=success'
+----
+time->Sun Jun  1 10:46:16 2025
+type=ADD_USER msg=audit(1748774776.619:436722): pid=28333 uid=0 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='op=add-user acct="testaudituser" exe="/usr/sbin/useradd" hostname=dev01 addr=? terminal=pts/2 res=success'
+----
+time->Sun Jun  1 10:46:17 2025
+type=DEL_USER msg=audit(1748774777.775:436753): pid=28339 uid=0 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='op=delete-user id=1001 exe="/usr/sbin/userdel" hostname=dev01 addr=? terminal=pts/2 res=success'
+----
+time->Sun Jun  1 10:47:31 2025
+type=ADD_USER msg=audit(1748774851.043:437547): pid=28587 uid=0 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='op=add-user acct="testaudituser" exe="/usr/sbin/useradd" hostname=dev01 addr=? terminal=pts/2 res=success'
+----
+time->Sun Jun  1 10:47:32 2025
+type=DEL_USER msg=audit(1748774852.214:437566): pid=28594 uid=0 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='op=delete-user id=1001 exe="/usr/sbin/userdel" hostname=dev01 addr=? terminal=pts/2 res=success'
+----
+time->Sun Jun  1 10:56:37 2025
+type=ADD_USER msg=audit(1748775397.077:441365): pid=29032 uid=0 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='op=add-user acct="testaudituser" exe="/usr/sbin/useradd" hostname=dev01 addr=? terminal=pts/2 res=success'
+----
+time->Sun Jun  1 10:56:38 2025
+type=DEL_USER msg=audit(1748775398.219:441384): pid=29038 uid=0 auid=1000 ses=25 subj=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023 msg='op=delete-user id=1001 exe="/usr/sbin/userdel" hostname=dev01 addr=? terminal=pts/2 res=success'
