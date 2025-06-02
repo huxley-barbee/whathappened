@@ -1,8 +1,12 @@
+ifeq ($(fortify),true)
+EXTRA_CFLAGS = -D_FORTIFY_SOURCE=2 -O2
+endif
 
 CC = gcc
-CFLAGS = -Wall -Wextra -Werror -D_GNU_SOURCE \
-         -I./parser -I./explain -I./input -I./output -I./narration -I./plugins
-LDFLAGS =
+CFLAGS = -Wall -Wextra -Werror -D_GNU_SOURCE $(EXTRA_CFLAGS) \
+         -fsanitize=address -I./parser -I./explain -I./input -I./output \
+         -I./narration -I./plugins
+LDFLAGS = -fsanitize=address
 
 SRC = \
     main.c \
@@ -14,7 +18,6 @@ SRC = \
     plugins/plugin_syscall.c
 
 OBJ = $(SRC:.c=.o)
-
 TARGET = whathappened
 
 # Unit Test sources and binary
@@ -33,7 +36,8 @@ test: $(TEST_BIN)
 	@for t in $(TEST_BIN); do echo "Running $$t..."; ./$$t || exit 1; done
 
 tests/test_audit_line: $(TEST_SRCS) parser/audit_line.c parser/audit_line.h
-	$(CC) $(CFLAGS) -o $@ $^ -lcmocka
+	$(CC) $(CFLAGS) -o $@ $^ -lcmocka $(LDFLAGS)
 
 clean:
 	rm -f $(OBJ) $(TARGET) $(TEST_BIN)
+
