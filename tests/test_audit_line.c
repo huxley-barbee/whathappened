@@ -1,15 +1,13 @@
+#include <stdio.h>
 #include <setjmp.h>
-#include <stddef.h>
-#include <stdarg.h>
+#include <string.h>
 #include <cmocka.h>
 #include "audit_line.h"
 #include "test_utils.h"
 
-// Shared fixture variables
 static char **lines = NULL;
 static size_t count = 0;
 
-// Setup fixture — runs before each test
 static int load_fixture(void **state) {
     /* need to use this var to get around errors.
      * not sure if cmocka need this in the signature.
@@ -22,7 +20,6 @@ static int load_fixture(void **state) {
     return 0;
 }
 
-// Teardown fixture — always runs after each test, even on assertion failure
 static int free_fixture(void **state) {
     /* need to use this var to get around errors.
      * not sure if cmocka need this in the signature.
@@ -34,7 +31,6 @@ static int free_fixture(void **state) {
     return 0;
 }
 
-// The actual test
 static void test_parse_syscall_log(void **state) {
     /* need to use this var to get around errors.
      * not sure if cmocka need this in the signature.
@@ -46,6 +42,14 @@ static void test_parse_syscall_log(void **state) {
     for (size_t i = 0; i < count; ++i) {
         AuditRecord record = parse_audit_line(lines[i]);
         assert_true(record.valid);
+        assert_true(strlen(record.type) > 0);
+        assert_non_null(strstr(record.msg_prefix, "audit("));
+        assert_true(record.field_count > 0);
+
+        for (size_t j = 0; j < record.field_count; j++) {
+            assert_true(strlen(record.fields[j].key) > 0);
+            assert_true(strlen(record.fields[j].value) > 0);
+        }
     }
 }
 
